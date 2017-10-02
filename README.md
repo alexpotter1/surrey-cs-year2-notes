@@ -1,2 +1,2 @@
-# surrey-cs-year2-notes
+# University of Surrey CS Notes
 Lecture notes for Surrey Computer Science year 2
